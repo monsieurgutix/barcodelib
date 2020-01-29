@@ -1045,7 +1045,7 @@ namespace BarcodeLib
                         xml.CountryAssigningManufacturingCode = Country_Assigning_Manufacturer_Code;
                         xml.ImageWidth = Width;
                         xml.ImageHeight = Height;
-                        xml.RotateFlipType = RotateFlipType;
+                        xml.RotateFlipType = (int)RotateFlipType;
                         xml.LabelPosition = (int)LabelPosition;
                         xml.LabelFont = LabelFont.ToString();
                         xml.ImageFormat = ImageFormat.ToString();

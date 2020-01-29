@@ -1,3 +1,8 @@
+Code Fork from public repo https://github.com/monsieurgutix/barcodelib
+
+Release Notes for this version:
+- Fix serialization
+
 Release Notes for BarcodeLib.dll
 ================================
 2.2.3.0
